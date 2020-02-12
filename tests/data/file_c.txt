@@ -1,0 +1,5 @@
+100000.5
+àààà:w
+fooo/baar.txt
+
+tests/data/file_a.txt
